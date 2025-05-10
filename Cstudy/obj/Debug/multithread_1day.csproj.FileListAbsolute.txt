@@ -1,0 +1,10 @@
+C:\inflearn\multithread_1day\bin\Debug\multithread_1day.exe.config
+C:\inflearn\multithread_1day\bin\Debug\multithread_1day.exe
+C:\inflearn\multithread_1day\bin\Debug\multithread_1day.pdb
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.csproj.AssemblyReference.cache
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.Form1.resources
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.Properties.Resources.resources
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.csproj.GenerateResource.cache
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.csproj.CoreCompileInputs.cache
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.exe
+C:\inflearn\multithread_1day\obj\Debug\multithread_1day.pdb
