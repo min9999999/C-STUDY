@@ -1,0 +1,10 @@
+C:\inflearn\Cstudy\AsyncAndSync_3day\bin\Debug\AsyncAndSync_3day.exe.config
+C:\inflearn\Cstudy\AsyncAndSync_3day\bin\Debug\AsyncAndSync_3day.exe
+C:\inflearn\Cstudy\AsyncAndSync_3day\bin\Debug\AsyncAndSync_3day.pdb
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.csproj.AssemblyReference.cache
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.Form1.resources
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.Properties.Resources.resources
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.csproj.GenerateResource.cache
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.csproj.CoreCompileInputs.cache
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.exe
+C:\inflearn\Cstudy\AsyncAndSync_3day\obj\Debug\AsyncAndSync_3day.pdb
