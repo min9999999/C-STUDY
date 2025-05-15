@@ -1,0 +1,11 @@
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\bin\Debug\Thread_5day.exe.config
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\bin\Debug\Thread_5day.exe
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\bin\Debug\Thread_5day.pdb
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.csproj.AssemblyReference.cache
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.Form1.resources
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.Properties.Resources.resources
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.csproj.GenerateResource.cache
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.csproj.CoreCompileInputs.cache
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.exe
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.pdb
+C:\inflearn\git\C-STUDY\Cstudy\Thread_5day\obj\Debug\Thread_5day.Thread_5day_2.resources
