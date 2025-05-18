@@ -1,0 +1,11 @@
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\bin\Debug\eventCreateAndCall_6day.exe.config
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\bin\Debug\eventCreateAndCall_6day.exe
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\bin\Debug\eventCreateAndCall_6day.pdb
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.csproj.AssemblyReference.cache
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.Form1.resources
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.Form2.resources
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.Properties.Resources.resources
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.csproj.GenerateResource.cache
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.csproj.CoreCompileInputs.cache
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.exe
+C:\inflearn\git\C-STUDY\Cstudy\eventCreateAndCall_6day\obj\Debug\eventCreateAndCall_6day.pdb

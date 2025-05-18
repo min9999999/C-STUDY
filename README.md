@@ -33,3 +33,13 @@ Callback: 호출 후 결과 수신, 처리
 2025/05/15 목요일
 1. 스레드 자원해제
 2. 크로스 스레드
+
+2025/05/18 일요일
+1. 이벤트 생성, 호출
+eventCreateAndCall_6day 참고
+
+form1을 실행시킬 때, form2를 새로 생성하면서 Show 함.
+form2가 실행 시, 백그라운드 스레드가 시작됨, MyFirst가 실행되고 
+form1에서 구독한 Sum() 메서드가 실행되면서, BeginInvoke()를 사용해서 UI 쓰레드에서 label1.Text = "5"를 실행합니다.
+
+요약: MyFirst 이벤트로 백그라운드 스레드를 통해 BeginInvoke() 사용하여 UI 업데이트함.
