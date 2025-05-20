@@ -3,20 +3,10 @@
   "WorkspaceRootPath": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\eventcreateandcall_6day\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AF6EB0C-4777-4925-A68F-1FCAD17106FF}|..\\Timer_7day\\Timer_7day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\timer_7day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\eventcreateandcall_6day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\eventcreateandcall_6day\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\eventcreateandcall_6day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A8B7FF4-129E-40B3-B31D-083173F9EBCE}|eventCreateAndCall_6day.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8AF6EB0C-4777-4925-A68F-1FCAD17106FF}|..\\Timer_7day\\Timer_7day.csproj|c:\\inflearn\\git\\c-study\\cstudy\\timer_7day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +21,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\Timer_7day\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Timer_7day\\Form1.cs",
+              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\Timer_7day\\Form1.cs",
+              "RelativeToolTip": "..\\Timer_7day\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:16:04.487Z",
+              "WhenOpened": "2025-05-20T12:00:32.953Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form2.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form2.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:15:33.473Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:15:40.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\eventCreateAndCall_6day\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\Timer_7day\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Timer_7day\\Form1.cs",
+              "ToolTip": "C:\\inflearn\\git\\C-STUDY\\Cstudy\\Timer_7day\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\Timer_7day\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T10:13:50.195Z",
+              "WhenOpened": "2025-05-20T11:59:07.234Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]

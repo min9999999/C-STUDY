@@ -1,0 +1,10 @@
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\bin\Debug\Timer_7day.exe.config
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\bin\Debug\Timer_7day.exe
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\bin\Debug\Timer_7day.pdb
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.csproj.AssemblyReference.cache
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.Form1.resources
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.Properties.Resources.resources
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.csproj.GenerateResource.cache
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.csproj.CoreCompileInputs.cache
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.exe
+C:\inflearn\git\C-STUDY\Cstudy\Timer_7day\obj\Debug\Timer_7day.pdb
