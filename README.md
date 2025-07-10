@@ -43,3 +43,8 @@ form2가 실행 시, 백그라운드 스레드가 시작됨, MyFirst가 실행�
 form1에서 구독한 Sum() 메서드가 실행되면서, BeginInvoke()를 사용해서 UI 쓰레드에서 label1.Text = "5"를 실행합니다.
 
 요약: MyFirst 이벤트로 백그라운드 스레드를 통해 BeginInvoke() 사용하여 UI 업데이트함.
+
+2025/05/20 화요일
+Timer 고급형
+1. System.Windows.Forms.Timer: UI 쓰레드에서 동작.
+2. System.Timers.Timer: Event 방식으로 함수호출되고 코드실행

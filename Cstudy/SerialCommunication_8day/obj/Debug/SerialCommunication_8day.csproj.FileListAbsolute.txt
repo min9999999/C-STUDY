@@ -1,0 +1,9 @@
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\bin\Debug\SerialCommunication_8day.exe.config
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\bin\Debug\SerialCommunication_8day.exe
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\bin\Debug\SerialCommunication_8day.pdb
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.csproj.AssemblyReference.cache
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.Properties.Resources.resources
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.csproj.GenerateResource.cache
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.csproj.CoreCompileInputs.cache
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.exe
+C:\inflearn\git\C-STUDY\Cstudy\SerialCommunication_8day\obj\Debug\SerialCommunication_8day.pdb
